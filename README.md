@@ -26,15 +26,19 @@ Lex includes this file (y.tab.h) and uses the definitions for token values found
 The compiler will make the lexical, syntactic and semantic analysis over an hypothetical programming language used for computing boolean operations.
 The language supports the following features:
 Variables
+
 Scoping
+
 Operators' precendence (c-like)
+
 Comments
+
 Smart printing
 
 
 # To run the code:
 first run the command-> sh build.sh
-then run-> sh start.sh <filename> in our case run ( sh start.sh test.txt )
+then run-> sh start.sh filename in our case run ( sh start.sh test.txt )
 
   
   
