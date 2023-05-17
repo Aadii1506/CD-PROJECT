@@ -39,7 +39,10 @@ Smart printing
 
 # To run the code:
 first run the command-> sh build.sh
-then run-> sh start.sh filename in our case run ( sh start.sh test.txt )
+
+then run-> sh start.sh filename 
+
+In our case run ( sh start.sh test.txt )
 
   
   
