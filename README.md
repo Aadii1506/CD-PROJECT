@@ -25,6 +25,7 @@ Lex includes this file (y.tab.h) and uses the definitions for token values found
 # Bool compiler Features
 The compiler will make the lexical, syntactic and semantic analysis over an hypothetical programming language used for computing boolean operations.
 The language supports the following features:
+
 Variables
 
 Scoping
